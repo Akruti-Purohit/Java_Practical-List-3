@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class P3_2{
+public class P3_02{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter year:");
